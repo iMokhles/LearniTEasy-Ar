@@ -1,0 +1,9 @@
+Package: com.imokhles.learniteasy
+Name: LearniTEasy-Ar
+Depends: 
+Version: 1.3
+Architecture: iphoneos-arm
+Description: HowTo Coding iOS Apps and Cydia Tweaks (Arabic)
+Maintainer: iMokhles
+Author: iMokhles
+Section: Utilities
